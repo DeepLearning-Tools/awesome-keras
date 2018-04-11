@@ -2,6 +2,7 @@
 
 Just a few keras-things I found useful.
 
+* https://github.com/keras-team/keras/tree/master/examples
 * https://github.com/fchollet/keras-resources
 
 ## Modeling Tools/Utilities
